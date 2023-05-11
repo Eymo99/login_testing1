@@ -1,0 +1,7 @@
+
+2023-05-09 15:21:52 - El usuario luis11 ha iniciado sesión. - IP: 127.0.0.1 - OS: WINNT - Login Count: 10
+2023-05-09 15:23:30 - El usuario luis11 ha iniciado sesión. - Direccion IP: 127.0.0.1 - Sistema Operativo: WINNT - Contador de Inicios de Sesion: 11
+2023-05-09 15:28:04 - El usuario mario4 ha iniciado sesión. - Direccion IP: ::1 - Sistema Operativo: WINNT - Contador de Inicios de Sesion: 3
+2023-05-10 14:57:18 - El usuario lando12 ha iniciado sesión. - Direccion IP: ::1 - Sistema Operativo: WINNT - Contador de Inicios de Sesion: 1
+2023-05-10 15:58:59 - El usuario luis11 ha iniciado sesión. - Direccion IP: ::1 - Sistema Operativo: WINNT - Contador de Inicios de Sesion: 12
+2023-05-10 17:27:24 - El usuario luis11 ha iniciado sesión. - Direccion IP: ::1 - Sistema Operativo: WINNT - Contador de Inicios de Sesion: 17
